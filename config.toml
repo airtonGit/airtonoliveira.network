@@ -1,4 +1,4 @@
 baseURL = "http://airtonoliveira.network/"
 languageCode = "pt-BR"
 title = "airtonoliveira.network"
-theme = "kiss"
+theme = "etch"
