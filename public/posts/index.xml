@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on airtonoliveira.network</title>
+    <link>http://airtonoliveira.network/posts/</link>
+    <description>Recent content in Posts on airtonoliveira.network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://airtonoliveira.network/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Olá Mundo</title>
+      <link>http://airtonoliveira.network/posts/ola-mundo/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://airtonoliveira.network/posts/ola-mundo/</guid>
+      <description>Motivação
+Desde que comecei a trabalhar profissionalmente a pressa é um fator constante, já me falaram diretamente assim durante uma reunião: &amp;ldquo;Aqui não temos tempo para testes, não tenho budget pra isso.&amp;rdquo;
+Esta pressa era minha também enquanto trabalha e cursava Ciência de Computação no PUCRS a minha sorte ao menos era que o trabalho e a aula estavam apenas 5 minutos de caminhada para ir de um prédio dentro do campus até outro no Tecnopuc.</description>
+    </item>
+    
+  </channel>
+</rss>
